@@ -1,0 +1,20 @@
+﻿  billet.cpp
+  billetRegulier.cpp
+  billetRegulierSolde.cpp
+  flightPass.cpp
+  flightPassSolde.cpp
+  gestionnaire.cpp
+C:\Users\marca\Desktop\TP4\TP4\gestionnaire.cpp(164,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP4\TP4\gestionnaire.cpp(166,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP4\TP4\gestionnaire.cpp(181,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP4\TP4\gestionnaire.cpp(183,21): warning C4018:  '<': signed/unsigned mismatch
+  main.cpp
+  membre.cpp
+  membrePremium.cpp
+C:\Users\marca\Desktop\TP4\TP4\gestionnaire.cpp(202,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP4\TP4\membrePremium.cpp(37,38): warning C4244:  'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  membreRegulier.cpp
+C:\Users\marca\Desktop\TP4\TP4\membrePremium.cpp(66,18): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\marca\Desktop\TP4\TP4\membreRegulier.cpp(27,31): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+  TP4.vcxproj -> C:\Users\marca\Desktop\TP4\Debug\TP4.exe
