@@ -1,0 +1,33 @@
+﻿  billet.cpp
+  billetRegulier.cpp
+  coupon.cpp
+  flightPass.cpp
+  gestionnaire.cpp
+C:\Users\marca\Desktop\TP3\TP3\membreRegulier.h(12,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\marca\Desktop\TP3\TP3\gestionnaire.cpp(15,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP3\TP3\gestionnaire.cpp(19,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP3\TP3\gestionnaire.cpp(61,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP3\TP3\gestionnaire.cpp(134,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP3\TP3\gestionnaire.cpp(164,20): warning C4018:  '<': signed/unsigned mismatch
+  membre.cpp
+C:\Users\marca\Desktop\TP3\TP3\gestionnaire.cpp(199,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP3\TP3\membre.cpp(25,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP3\TP3\membre.cpp(75,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP3\TP3\membre.cpp(161,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP3\TP3\membre.cpp(167,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP3\TP3\membre.cpp(210,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP3\TP3\membre.cpp(229,30): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP3\TP3\membre.cpp(241,29): warning C4018:  '<': signed/unsigned mismatch
+  membrePrenium.cpp
+C:\Users\marca\Desktop\TP3\TP3\membre.cpp(262,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP3\TP3\membreRegulier.h(12,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\marca\Desktop\TP3\TP3\membrePrenium.cpp(48,18): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+  membreRegulier.cpp
+C:\Users\marca\Desktop\TP3\TP3\membrePrenium.cpp(60,38): warning C4244:  'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\marca\Desktop\TP3\TP3\membreRegulier.h(12,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\marca\Desktop\TP3\TP3\membreRegulier.cpp(31,31): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\marca\Desktop\TP3\TP3\membreRegulier.cpp(42,20): warning C4018:  '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\marca\Desktop\TP3\TP3\membreRegulier.cpp(83,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\TP3\TP3\membre.cpp(203): warning C4715:  'Membre::operator=': not all control paths return a value
+  TP3.vcxproj -> C:\Users\marca\Desktop\TP3\Debug\TP3.exe
