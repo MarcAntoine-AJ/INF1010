@@ -1,0 +1,24 @@
+﻿  billet.cpp
+  coupon.cpp
+  gestionnaire.cpp
+C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\TP2\gestionnaire.cpp(17,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\TP2\gestionnaire.cpp(22,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\TP2\gestionnaire.cpp(58,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\TP2\gestionnaire.cpp(94,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\TP2\gestionnaire.cpp(122,20): warning C4018:  '<': signed/unsigned mismatch
+  Header.cpp
+  main.cpp
+C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\TP2\gestionnaire.cpp(148,20): warning C4018:  '<': signed/unsigned mismatch
+  membre.cpp
+C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\TP2\main.cpp(291,8): warning C4930:  'Pomme pomme(Membre (__cdecl *)(void))': prototyped function not called (was a variable definition intended?)
+C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\TP2\membre.cpp(31,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\TP2\membre.cpp(41,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\TP2\membre.cpp(85,31): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\TP2\membre.cpp(128,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\TP2\membre.cpp(131,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\TP2\membre.cpp(149,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\TP2\membre.cpp(155,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\TP2\membre.cpp(206,20): warning C4018:  '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\TP2\membre.cpp(211,20): warning C4018:  '<': signed/unsigned mismatch
+  TP2.vcxproj -> C:\Users\marca\Desktop\Note de cours\INF1010\TP\TP2\Debug\TP2.exe
